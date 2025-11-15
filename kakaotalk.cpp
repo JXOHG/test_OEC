@@ -1,1 +1,1 @@
-int tabarnak = 0;
+bool tabarnak = true;
