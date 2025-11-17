@@ -7,5 +7,8 @@ while not guaranteed:
     
 while True:
     print("KYS")
+
+def sigma_balls:
+    print("Sigma Balls")
     
 print("HI")
