@@ -9,6 +9,7 @@ while True:
     print("KYS")
 
 def sigma_balls:
+    #crying rn
     print("Sigma Balls")
     
 print("HI")
