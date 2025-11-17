@@ -13,5 +13,8 @@ def sigma_balls:
     print("Sigma Balls")
     
 print("HI")
+#hello fuck you
 
-# hello
+#you suck
+def fuckyou
+
